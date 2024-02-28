@@ -18,7 +18,6 @@ We need to add transactions field of TransactionsList type to User class so that
 A transaction must be added with a SINGLE operation (O(1))
 
 LinkedList<T> nested Java class has the same structure, a bidirectional linked list.
- * 
  */
 
 import java.util.Arrays;
