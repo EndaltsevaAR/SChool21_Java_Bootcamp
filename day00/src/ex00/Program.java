@@ -17,7 +17,7 @@ package ex00;
 public class Program {
     public static void main(String[] args) {
         int number = 479598;
-        System.out.println(getSum(number));
+        System.out.println("Sum is " + getSum(number));
     }
 
     private static int getSum(int number) {

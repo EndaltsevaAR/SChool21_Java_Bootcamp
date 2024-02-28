@@ -1,41 +1,36 @@
-Intensive Java Bootcamp
-This repository contains educational materials and projects completed during an Intensive Java Bootcamp. The bootcamp covers a range of topics aimed at equipping participants with fundamental Java programming skills as well as more advanced concepts commonly used in industry.
+Java Basics Project
+This project covers the basics of solving both trivial and more challenging business tasks using basic Java language constructs. It includes six exercises aimed at enhancing your understanding of Java programming.
 
-Program Structure
-The bootcamp is divided into individual and team-based sessions, each focusing on specific aspects of Java development. Here's an overview of the program structure:
+Description
+The project encompasses six exercises, each designed to tackle different aspects of Java programming while addressing real-world business scenarios.
 
-Day00: Structures and Arrays
-Description: Covers the basics of solving both trivial and more challenging business tasks using basic Java language constructs.
-Completed: 100%
+Exercise 00 – Sum of Digits: Implementing logic to calculate the sum of digits in a given number.
 
-Day01: OOP and Collections
-Description: Focuses on object-oriented programming principles and modeling various collections, culminating in the creation of a money transfer application.
-Completed: 100%
+Exercise 01 – Really Prime Number: Exploring prime numbers and implementing algorithms to determine whether a number is prime.
 
-Day02: IO and Files
-Description: Teaches how to utilize input/output in Java and implement programs to manipulate a file system.
-Completed: 100%
+Exercise 02 – Endless Sequence (or not?): Investigating sequences in Java and determining whether a sequence is endless or finite.
 
-Day03: Threads
-Description: Covers the basics of multithreading mechanisms in Java.
-Completed: 100%
+Exercise 03 – A Little Bit of Statistics: Applying basic statistical operations to a dataset.
 
-Day04: JAR
-Description: Involves creating library archives and using external libraries.
-Completed: 100%
+Exercise 04 – A Bit More of Statistics: Extending statistical operations to handle larger datasets.
 
-Day05: SQL and JDBC
-Description: Utilizes key mechanisms to work with PostgreSQL DBMS via JDBC.
-Completed: 100%
+Exercise 05 – Schedule: Managing schedules using Java, including sorting, filtering, and organizing events.
 
-Day06: JUnit and Mockito
-Description: Provides an introduction to unit testing and mocking with JUnit and Mockito.
-Completed: 100%
+Stack
+The project utilizes the following stack:
+- Standard operations of primitive types
+- Conditions
+- Loops
+- Streams
+- Collections
+- IO
+- Time/Date
 
-Day07: Reflection
-Description: Involves developing frameworks utilizing the reflection mechanism.
-Completed: 100%
+Usage
+To use this project, clone the repository and navigate to each exercise directory. Each exercise contains a separate Java file with instructions commented within the code. Follow the instructions provided and run the Java files to see the output.
 
-Day08: Spring
-Description: Introduces enterprise-level Java development and the basics of the Spring framework.
-Completed: 100%
+Getting Started
+Make sure you have Java Development Kit (JDK) installed on your system. You can download it from Oracle's website.
+
+Contribution
+Contributions are welcome! If you have any ideas for improvement or new exercises to add, feel free to submit a pull request.
