@@ -28,6 +28,7 @@ The project utilizes the following stack:
 
 Usage
 To use this project, clone the repository and navigate to each exercise directory. Each exercise contains a separate Java file with instructions commented within the code. Follow the instructions provided and run the Java files to see the output.
+Each day is a separate project and needs to be opened since day0X ...
 
 Getting Started
 Make sure you have Java Development Kit (JDK) installed on your system. You can download it from Oracle's website.

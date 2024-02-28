@@ -39,3 +39,10 @@ Completed: 100%
 Day08: Spring
 Description: Introduces enterprise-level Java development and the basics of the Spring framework.
 Completed: 100%
+
+Getting Started
+Make sure you have Java Development Kit (JDK) installed on your system. You can download it from Oracle's website.
+Each day is a separate project and needs to be opened since day0X ...
+
+Contribution
+Contributions are welcome! If you have any ideas for improvement or new exercises to add, feel free to submit a pull request.
