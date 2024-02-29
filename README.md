@@ -1,8 +1,12 @@
 Intensive Java Bootcamp
+
+
 This repository contains educational materials and projects completed during an Intensive Java Bootcamp. The bootcamp covers a range of topics aimed at equipping participants with fundamental Java programming skills as well as more advanced concepts commonly used in industry.
+
 
 Program Structure
 The bootcamp is divided into individual and team-based sessions, each focusing on specific aspects of Java development. Here's an overview of the program structure:
+
 
 Day00: Structures and Arrays
 Description: Covers the basics of solving both trivial and more challenging business tasks using basic Java language constructs.
@@ -40,9 +44,11 @@ Day08: Spring
 Description: Introduces enterprise-level Java development and the basics of the Spring framework.
 Completed: 100%
 
+
 Getting Started
 Make sure you have Java Development Kit (JDK) installed on your system. You can download it from Oracle's website.
 Each day is a separate project and needs to be opened since day0X ...
+
 
 Contribution
 Contributions are welcome! If you have any ideas for improvement or new exercises to add, feel free to submit a pull request.
