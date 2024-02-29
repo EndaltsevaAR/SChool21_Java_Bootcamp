@@ -18,6 +18,12 @@ Getting Started
 To get started with each exercise, navigate to the respective exercise directory and follow the instructions provided in the README.md file.
 Each day is a separate project and needs to be opened since day0X ...
 
+Stack
+The project utilizes the following stack:
+- Streams
+- Collections
+- IO
+
 
 Contributions
 Contributions to this repository are welcome! If you have any improvements, suggestions, or bug fixes, feel free to submit a pull request.
